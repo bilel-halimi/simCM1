@@ -1,5 +1,5 @@
 #' simulation d'une chaine de markov
-#' export
+#' @export
 #' @param y vecteur numerique qui represente les etats
 #' @param mu vecteur numerique qui represente la distribution initial
 #' @param p matrice de transition
