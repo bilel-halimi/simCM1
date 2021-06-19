@@ -2,6 +2,7 @@
 #'@export
 #'@param x numeric vector
 #'@param p numeric vector 
+#'@param n entier representing numbre of iteration
 
 rdist<-function(x,p)
 {
