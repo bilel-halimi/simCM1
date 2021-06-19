@@ -2,4 +2,4 @@
 
 export(rdist)
 export (rdistn)
-export (simCmd)
+export (SimCmd)
